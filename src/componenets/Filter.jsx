@@ -7,20 +7,20 @@ const Filter = () => {
   const handleChange = (e) => {
     //daha önceden eklenmiş olan parametreleri korur
     searchParams.set('order',e.target.value)
-    setSearchParams({ searchParams});
+    setSearchParams(searchParams);
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
     searchParams.set('query',e.target[0].value)
-    setSearchParams({searchParams})
+    setSearchParams(searchParams)
   }
   return (
     <div className="d-flex justify-content-between align-items-center ">
       <div className="mx-5 mt-5 fs-4">
         <label className="me-3">İsme Göre Sırala</label>
         <select
-          value={searchParams.get("order")}
+          value={searchParams.get('order')}
           onChange={handleChange}
           className="px-4 rounded"
         >
