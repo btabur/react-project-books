@@ -18,6 +18,7 @@ const Header = () => {
         <div className="d-flex gap-3 ">
           <NavLink to={"/"}>Ana Sayfa</NavLink>
           <NavLink to={"/ürünler"}>Ürünler</NavLink>
+          <NavLink to={"/kategori"}>Kategoriler</NavLink>
         </div>
       </div>
     </nav>

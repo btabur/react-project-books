@@ -7,6 +7,7 @@ import UndefinedPage from './pages/UndefinedPage'
 import Header from './componenets/Header'
 import Footer from './componenets/Footer'
 import ProductDetail from './pages/ProductDetail'
+import Categories from './pages/Categories'
 
 function App() {
  
@@ -21,6 +22,13 @@ function App() {
         <Route path='/ürün/:id' element = {<ProductDetail/>} />    {/* ürünün url si dinamik olacak  */}
         {/* bu sayfalar dışında bir sayfa girilirse */}
         <Route path='*' element = {<UndefinedPage/>} />
+
+        {/* İç içe route lar  alt yollarda / işaretine gerek yoktur */}
+        <Route path='/kategori' element={<Categories/>}>
+          <Route index element={<h1>Hikayeler</h1>}/> 
+          <Route path='romanlar' element={<h1>Romanlar</h1>}/>
+
+        </Route>
 
       </Routes>
     
