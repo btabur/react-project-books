@@ -26,7 +26,7 @@ function App() {
         {/* İç içe route lar  alt yollarda / işaretine gerek yoktur */}
         <Route path='/kategori' element={<Categories/>}>
           <Route index element={<h1>Hikayeler</h1>}/> 
-          <Route path='romanlar' element={<h1>Romanlar</h1>}/>
+          <Route path='roman' element={<h1>Romanlar</h1>}/>
 
         </Route>
 

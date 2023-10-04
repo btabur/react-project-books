@@ -18,3 +18,9 @@ a {
 .card {
     max-width: 260px;
 }
+
+@media (max-width:800px) {
+    .card-container {
+        justify-content: center;
+    }
+}
