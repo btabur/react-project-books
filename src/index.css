@@ -3,8 +3,9 @@
 body {
   margin: 0;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #c3abab;
   min-width: 320px;
   min-height: 100vh;
   overflow-x: hidden;
+
 }

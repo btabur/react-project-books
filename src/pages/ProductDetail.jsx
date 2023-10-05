@@ -26,7 +26,8 @@ const ProductDetail = () => {
   return (
     <div>
        {!book ? <Loading/> :
-       <div className='row my-5 p-5' style={{minHeight:'80vh'}}>
+       <div className='row my-5 p-5 ' style={{minHeight:'80vh'}}>
+        <div id='detail' className='d-flex rounded detail'>
         <div className='col-md-6 d-flex align-items-center justify-content-center '>
         <img style={{maxHeight:'400px'}} className='img-fluid shadow rounded ' src={book.image} alt="" />
         </div>
@@ -40,6 +41,8 @@ const ProductDetail = () => {
           </div>
       
         </div>
+        </div>
+
        </div>
        }
     </div>

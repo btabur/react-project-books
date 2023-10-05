@@ -37,7 +37,13 @@ const ProductsPage = () => {
   return (
     <div> 
         {!books && <Loading/>  /*apiden cevap gelmediğinde */} 
-        <h3 className='mx-5 mt-5'>{books?.length} kitap Bulundu</h3>
+        <div className='d-flex mt-5 flex-column justify-content-center align-items-center'>
+       
+        <img style={{width:'250px'}} className='img-fluid rounded ' src="src/assets/book.jpeg" alt="" />
+        <h3 className='mx-5 mt-1'>{books?.length} kitap Bulundu</h3>
+        </div>
+      
+
 
         <Filter/>
        

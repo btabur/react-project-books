@@ -2,84 +2,84 @@
     "books": [
       {
         "id": 1,
-        "title": "Suç ve Ceza",
-        "author": "Dostoyevski",
-        "image": "https://picsum.photos/900",
-        "year": 1866,
-        "page": 500,
-        "description": "Raskolnikov hayatı"
+        "title": "Dervişin Teselli Koleksiyonu Doğu'dan Batı'dan 99 Teselli",
+        "author": "Mecit Ömür Öztürk",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:3473517/wh:true/wi:220",
+        "year": 2019,
+        "page": 344,
+        "description": "Kederli günlerden geçen derviş, rüya âleminde bir adaya uğrar. Gördüğü şey mucizevidir. Peygamberler, veliler, âlimler ve filozoflar bir halka şeklinde oturmakta ve anlaşıldığı kadarıyla birini beklemektedirler. Derviş de onlarla birlikte beklemeye durur ancak asıl misafirin kendisi olduğunu anlaması uzun sürmez. Halkanın ortasında kendisine gösterilen yere oturur ve her kederine bir teselli verecek olan bu nurani meclisi dinlemeye koyulur."
       },
       {
         "id": 2,
-        "title": "Karanlık Kitaplık",
-        "author": "H.P. Lovecraft",
-        "image": "https://picsum.photos/901",
-        "year": 1927,
-        "page": 350,
-        "description": "Korku ve gerilim dolu öyküler"
+        "title": "Geleceğe Mektup 8/İz Bırakan Öğretmen Mahir İz",
+        "author": "Dr. Rabia Altuntaş ",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11698980/wh:true/wi:220",
+        "year": 2023,
+        "page":80,
+        "description": "Muaz izlediği bir filmden sonra ayraç koleksiyoncusu olmaya karar verdi. O da tıpkı filmdeki kahraman gibi kitapların en heyecanlı sayfalarını arıyor, bulduğunda da içine girip maceraya dâhil olmak için can atıyordu. İşler ilk önce düşündüğü gibi gitmedi. Fakat sonra biricik dedesi sayesinde hem çok güzel bir ayracı hem de ömrü boyunca kalbinde izini taşıyacağı bir kahramanı oldu"
       },
       {
         "id": 3,
-        "title": "1984",
-        "author": "George Orwell",
-        "image": "https://picsum.photos/902",
-        "year": 1949,
-        "page": 328,
-        "description": "Distopik bir gelecekte totaliter bir rejim"
+        "title": "Cumhuriyet’in İlk Sabahı",
+        "author": "Prof. Dr. İlber Ortaylı",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11715139/wh:true/wi:220",
+        "year": 2023,
+        "page": 120,
+        "description": "Dünyaya gözlerimi bir savaşın ortasında açtım. Savaşın ortasının tam olarak neresi olduğunu bilmiyordum ama annem hep “Savaşın ortasında doğurdum ben seni,” derdi. Tarih 23 Nisan 1920. Büyük Millet Meclisi binasının önünde adım atacak yer yok. Kalabalığın gerisinde bir tezgâh göze çarpıyor. Önünde bir çocuk, kimbilir belki bir seyyar satıcı. Annesi var mı, babası sağ mı? Vatan yorgun, halk yoksul, umutlar yitip gitmişken bir çocuk nasıl yaşar hayatı? "
       },
       {
         "id": 4,
-        "title": "Siyah Çığlık",
-        "author": "Edgar Allan Poe",
-        "image": "https://picsum.photos/903",
-        "year": 1849,
-        "page": 150,
-        "description": "Karanlık şiirler ve hikayeler"
+        "title": "Gece Yarısı Kütüphanesi",
+        "author": "Matt Haig",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11631602/wh:true/wi:220",
+        "year": 2022,
+        "page": 283,
+        "description": "“Yaşamla ölüm arasında bir kütüphane var,” dedi. “Bu kütüphanedeki raflar sonsuza kadar gider.  Her kitap yaşamış olabileceğin başka bir hayatı yaşama şansını sunar sana. Farklı seçimler yapmış olsan, şu an nasıl bir hayatın olacağını görürsün…"
       },
       {
         "id": 5,
-        "title": "Drakula",
-        "author": "Bram Stoker",
-        "image": "https://picsum.photos/904",
-        "year": 1897,
-        "page": 418,
-        "description": "Vampir mitolojisinin klasik eseri"
+        "title": "O Bize Yeter",
+        "author": "Soner Duman ",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11767352/wh:true/wi:220",
+        "year": 2023,
+        "page": 208,
+        "description": "Allah, yerin ve göğün bütün imkânlarını insanın hizmetine verdi. Onu akıl nimetiyle donattı. Onu kendi haline bırakmayıp rahmetini elçiler vasıtasıyla insanlar arasında yaydı. Kimileri bu rahmeti gördü, duydu ve bildi. Rahmete nail olabilmek için O’na iman edip O’nun gösterdiği yola girdi. Kimileri ise aklını kullanmadı, rahmet elçilerine kulak asmadı, bilerek veya bilmeyerek rahmetten kovulan şeytanı yoldaş edindi."
       },
       {
         "id": 6,
-        "title": "Catch-22",
-        "author": "Joseph Heller",
-        "image": "https://picsum.photos/905",
-        "year": 1961,
-        "page": 453,
-        "description": "II. Dünya Savaşı döneminde geçen absürt bir savaş romanı"
+        "title": "Kızılelma / Türk Cihan Hakimiyeti Ülküsü",
+        "author": "Tufan Gündüz",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11762719/wh:true/wi:220",
+        "year": 2023,
+        "page": 200,
+        "description": "Türklerin zihin dünyasında iki bin yıldır uzak ufuklara dair arzular dolaştı. Ordular yüzyıllardır doğuda gün doğusuna, batıda gün batısına, güneyde gün ortasına, kuzeyde gece ortasına doğru aktıkça bu arzular güçlü bir fetih ve önlenemez bir cihan hâkimiyeti ülküsüne dönüştü.  Tuna’nın nereden aktığını, Dinyeper’in nereye döküldüğünü bilenler doğudan batıya zapt edemeyecekleri hiçbir ülkenin olmadığına inandılar. Yüzyıllar içinde uzak ufuklar yeni bir isim kazandı: Kızılelma. Bu defa süvariler kılıçları daima kuşanılmış, atları daima eyerlenmiş halde hazır durdular; günü gelince “Kızılelma’ya dek gideriz!”"
       },
       {
         "id": 7,
-        "title": "İnsan Neyle Yaşar?",
-        "author": "Lev Tolstoy",
-        "image": "https://picsum.photos/906",
-        "year": 1899,
-        "page": 96,
-        "description": "Yaşamın anlamını sorgulayan bir deneme"
+        "title": "Zamansızlık Kapsülü",
+        "author": "Ömer Faruk Paksu ",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11770307/wh:true/wi:220",
+        "year": 2023,
+        "page": 160,
+        "description": "Zamansızlık Kapsülü, insanlığın son icadı. Tüm dünyanın ilgisini çeken müthiş bir alet. İçine girdiğinde sonsuzluk hissi yaşıyorsun. Nereye baksan ucu bucağı olmayan bir ufka bakıyor gibisin. Ama asıl şaşkınlığı kapsül çalışmaya başladığında yaşıyorsun. Kapsül, göz hareketlerinden zihninden geçenleri okuyor ve seni istediğin zamana götürüyor. Bu macerada, meraklı, heyecanlı ve keşfetmeyi seven kahramanımız Enes, “Zamanların En Güzeli”ne bir yolculuğa çıkıyor. Peygamberimiz Hazreti Muhammed’in (s.a.v.) yaşamından iç içe geçmiş zamanların, sürprizlerle dolu sahnelerin, ilginç olayların yer aldığı bu yolculuk seni de"
       },
       {
         "id": 8,
-        "title": "Kırmızı Pazartesi",
-        "author": "Gabriel Garcia Marquez",
-        "image": "https://picsum.photos/907",
-        "year": 1981,
-        "page": 152,
-        "description": "Latin Amerika'nın gerçeküstü edebiyatın ustasından bir roman"
+        "title": "Eski Türkler",
+        "author": "Lev Nikolayeviç Gumilöv ",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:9449958/wh:true/wi:220",
+        "year": 2002,
+        "page": 592,
+        "description": "Netice itibariyle kadim Türkler insanlık tarihinde çok geniş ve önemli bir yer tutmuştur ama günümüze kadar bu milletin tarihi tam olarak yazılmamıştır. Yazılan bölük pörçük ve muhtasar şeyler ise tarihi, etnografik, etimolojik ve diğer problemlerin çözümüne nispeten yarımcı olmuşlardır. Böylesine geniş bir konunun güçlülüğü ortadayken, elinizdeki çalışmanın bunların üstesinden geldiği gibi bir iddiası olamaz. Bu kitabın müellifi, çözüm bekleyen meselelere sadece bir nebzecik yaklaştığı ümidindedir. Elinizdeki eser tarihi analiz ve sentez metodunun birlikte kullanılması yönünde bir deneme olarak düşünülmüştür."
       },
       {
         "id": 9,
-        "title": "Doğu Ekspresinde Cinayet",
-        "author": "Agatha Christie",
-        "image": "https://picsum.photos/908",
-        "year": 1934,
-        "page": 256,
-        "description": "Ünlü dedektif Hercule Poirot'nun maceraları"
+        "title": "Nineteen Eighty-Four - 1984",
+        "author": "George Orwell",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11340163/wh:true/wi:220",
+        "year": 2021,
+        "page": 325,
+        "description": "1984 is the year in which it happens. The world is divided into three great powers, Oceania, Eurasia, and Eastasia, each perpetually at war with the other. Throughout Oceania ‘The Party’ rules by the agency of four minis­tries, whose power is absolute – the Ministry of Peace which deals with war, the Ministry of Love (headquarters of the dreaded Thought Police) which deals with law and order, the Ministry of Plenty which deals in scarcities, and the Ministry of Truth which deals with propaganda. ‘Newspeak’ is the modern version of the English tongue ordained by the Party. It has given to the world such re­markable words as doublethink,"
       }
     ]
   }
